@@ -1,5 +1,6 @@
 // Program to Find Longest Common Prefix Using Trie Data Structure
 // https://leetcode.com/problems/longest-common-prefix/
+// https://www.techiedelight.com/longest-common-prefix-given-set-strings-using-trie/
 
 #include<bits/stdc++.h>
 using namespace std;
